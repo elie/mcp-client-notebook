@@ -1,0 +1,15 @@
+Entity Observations:
+
+Elie Schoppik (Person):
+- Works at Anthropic
+
+Anthropic (Organization):
+- AI research company
+
+combo (TextFile):
+- bye
+
+Hello world!
+
+hello (TextFile):
+- hello
